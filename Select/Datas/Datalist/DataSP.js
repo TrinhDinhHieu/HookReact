@@ -1,0 +1,98 @@
+export default[
+    {
+        name: 'Khô gà',
+        url: 'https://afamilycdn.com/150157425591193600/2020/11/17/unnamed-1605605298649227773680.jpg',
+        price :149 ,
+        review: 899,
+    },
+    {
+        name:'Ngô rang lá chanh' ,
+        url: 'https://dlfresh.net/wp-content/uploads/2021/11/Bap-Say-Kho-Bo.jpg',
+        price :68 ,
+        review:233 ,
+    },
+    {
+        name: 'Khô bò lá chanh',
+        url: 'https://anvatchimap.com/wp-content/uploads/2021/02/151179473_1867505186737393_1093770737911506236_o.jpg',
+        price : 300,
+        review: 545,
+    },
+    {
+        name:'Khô heo cháy tỏi' ,
+        url:'https://cdn.tgdd.vn/Files/2021/09/27/1386009/cach-lam-kho-heo-chay-toi-thom-ngon-nham-nhi-cuc-da-202201190953185587.jpg' ,
+        price :299 ,
+        review:894 ,
+    },
+    {
+        name:'Khô heo lá chanh' ,
+        url:'https://i-giadinh.vnecdn.net/2021/07/07/kho-1-3330-1616397775-7241-1625643111.jpg' ,
+        price :299 ,
+        review:894 ,
+    },
+    {
+        name:'Khô mực xé cay' ,
+        url:'https://trivietphat.net/wp-content/uploads/2021/08/Kho-muc-tam-gia-vi-1.jpg' ,
+        price :599 ,
+        review:1094 ,
+    },
+    {
+        name:'Cơm cháy ruốc' ,
+        url:'https://top10tphcm.com/wp-content/uploads/2020/05/dia-chi-ban-com-chay.jpg' ,
+        price :339 ,
+        review:3394 ,
+    },
+    {
+        name:'Cơm cháy chiên nước mắm' ,
+        url:'https://ngonaz.com/wp-content/uploads/2021/08/com-chay-chien-nuoc-mam-1.jpg' ,
+        price :239 ,
+        review:2194 ,
+    },
+    {
+        name: 'Khô gà',
+        url: 'https://afamilycdn.com/150157425591193600/2020/11/17/unnamed-1605605298649227773680.jpg',
+        price :149 ,
+        review: 899,
+    },
+    {
+        name:'Ngô rang lá chanh' ,
+        url: 'https://dlfresh.net/wp-content/uploads/2021/11/Bap-Say-Kho-Bo.jpg',
+        price :68 ,
+        review:233 ,
+    },
+    {
+        name: 'Khô bò lá chanh',
+        url: 'https://anvatchimap.com/wp-content/uploads/2021/02/151179473_1867505186737393_1093770737911506236_o.jpg',
+        price : 300,
+        review: 545,
+    },
+    {
+        name:'Khô heo cháy tỏi' ,
+        url:'https://cdn.tgdd.vn/Files/2021/09/27/1386009/cach-lam-kho-heo-chay-toi-thom-ngon-nham-nhi-cuc-da-202201190953185587.jpg' ,
+        price :299 ,
+        review:894 ,
+    },
+    {
+        name:'Khô heo lá chanh' ,
+        url:'https://i-giadinh.vnecdn.net/2021/07/07/kho-1-3330-1616397775-7241-1625643111.jpg' ,
+        price :299 ,
+        review:894 ,
+    },
+    {
+        name:'Khô mực xé cay' ,
+        url:'https://trivietphat.net/wp-content/uploads/2021/08/Kho-muc-tam-gia-vi-1.jpg' ,
+        price :599 ,
+        review:1094 ,
+    },
+    {
+        name:'Cơm cháy ruốc' ,
+        url:'https://top10tphcm.com/wp-content/uploads/2020/05/dia-chi-ban-com-chay.jpg' ,
+        price :339 ,
+        review:3394 ,
+    },
+    {
+        name:'Cơm cháy chiên nước mắm' ,
+        url:'https://ngonaz.com/wp-content/uploads/2021/08/com-chay-chien-nuoc-mam-1.jpg' ,
+        price :239 ,
+        review:2194 ,
+    },
+]
